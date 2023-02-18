@@ -11,4 +11,4 @@
 
 
 ### Stats ✨
-[![Hug's GitHub stats](https://github-readme-stats.vercel.app/api?username=HugGroup6&count_private=true&theme=transparent)](https://github.com/HugGroup6github-readme-stats)
+[![Hug's GitHub stats](https://github-readme-stats.vercel.app/api?username=HugGroup6&count_private=true&theme=transparent&show_icons=true)](https://github.com/HugGroup6github-readme-stats)
