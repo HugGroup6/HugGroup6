@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**HugGroup6/HugGroup6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on HUG
 - 🌱 I’m currently learning React, Next.js 13, SASS, 
@@ -12,7 +8,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about open source projects and employment opportunities
 - 📫 How to reach me: hug.group6@outlook.com
 - ⚡ Fun fact: We started as a team in a hackathon
--->
+
 
 ### Stats ✨
 [![Hug's GitHub stats](https://github-readme-stats.vercel.app/api?username=HugGroup6)](https://github.com/HugGroup6github-readme-stats)
